@@ -1,0 +1,1 @@
+This is a project done for a homework assignment in my Data Structures (COSC 2436) class. It demonstrates the usage of classes, structs, lists, and list navigation. In the project, binary (non search) trees are to be constructed with given input files, and are expected to show a knowledge in tree/lsit traversal, along with min/max path. 
